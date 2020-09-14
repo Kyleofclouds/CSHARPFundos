@@ -12,3 +12,17 @@ C:\Users\kylew\1150Projects\BlueBadge\CSHARPFundamentals\01_TypesAndVariables\ob
 C:\Users\kylew\1150Projects\BlueBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CopyComplete
 C:\Users\kylew\1150Projects\BlueBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.dll
 C:\Users\kylew\1150Projects\BlueBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CopyComplete
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.pdb
