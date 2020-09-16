@@ -1,0 +1,16 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\06_Inheritance_Tests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\06_Inheritance_Tests.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\06_Inheritance_Classes.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\06_Inheritance_Classes.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\obj\Debug\06_Inheritance_Tests.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\obj\Debug\06_Inheritance_Tests.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\obj\Debug\06_Inheritance_Tests.csproj.CopyComplete
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\obj\Debug\06_Inheritance_Tests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Tests\obj\Debug\06_Inheritance_Tests.pdb

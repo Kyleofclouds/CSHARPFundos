@@ -1,0 +1,6 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Classes\bin\Debug\06_Inheritance_Classes.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Classes\bin\Debug\06_Inheritance_Classes.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\06_Inheritance_Classes\obj\Debug\06_Inheritance_Classes.pdb
