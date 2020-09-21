@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Inheritance_Classes", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Inheritance_Tests", "06_Inheritance_Tests\06_Inheritance_Tests.csproj", "{28206E5D-B5A1-4D6B-AC55-B3579596C55D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_RepositoryPattern_Repository", "07_RepositoryPattern_Repository\07_RepositoryPattern_Repository.csproj", "{3C2AB4A2-FF73-4384-84AF-F425CFC66751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_RepositoryPattern_Tests", "07_RepositoryPattern_Tests\07_RepositoryPattern_Tests.csproj", "{BE328887-37E5-4E47-B517-7C5E68941964}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{28206E5D-B5A1-4D6B-AC55-B3579596C55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28206E5D-B5A1-4D6B-AC55-B3579596C55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28206E5D-B5A1-4D6B-AC55-B3579596C55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2AB4A2-FF73-4384-84AF-F425CFC66751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2AB4A2-FF73-4384-84AF-F425CFC66751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2AB4A2-FF73-4384-84AF-F425CFC66751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2AB4A2-FF73-4384-84AF-F425CFC66751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE328887-37E5-4E47-B517-7C5E68941964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE328887-37E5-4E47-B517-7C5E68941964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE328887-37E5-4E47-B517-7C5E68941964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE328887-37E5-4E47-B517-7C5E68941964}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

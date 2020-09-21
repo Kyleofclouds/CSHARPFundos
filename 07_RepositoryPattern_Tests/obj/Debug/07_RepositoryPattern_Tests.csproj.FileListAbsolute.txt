@@ -1,0 +1,16 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\07_RepositoryPattern_Tests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\07_RepositoryPattern_Tests.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\07_RepositoryPattern_Repository.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\07_RepositoryPattern_Repository.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\obj\Debug\07_RepositoryPattern_Tests.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\obj\Debug\07_RepositoryPattern_Tests.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\obj\Debug\07_RepositoryPattern_Tests.csproj.CopyComplete
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\obj\Debug\07_RepositoryPattern_Tests.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\07_RepositoryPattern_Tests\obj\Debug\07_RepositoryPattern_Tests.pdb
