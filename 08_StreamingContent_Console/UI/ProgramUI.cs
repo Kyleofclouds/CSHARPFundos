@@ -28,7 +28,8 @@ namespace _08_StreamingContent_Console.UI
                     "2) Find by title \n" +
                     "3) Add new content \n" +
                     "4) Remove Content \n" +
-                    "5) Exit");
+                    "5) Show All Movies \n" +
+                    "6) Exit");
                 string userInput = Console.ReadLine();
                 switch (userInput)
                 {
@@ -50,7 +51,10 @@ namespace _08_StreamingContent_Console.UI
                         //Remove
                         break;
                     case "5":
-                        //exit
+                        //show all movies
+                        ShowAllMovies();
+                        break;
+                    case "6":
                         continueToRun = false;
                         break;
                     default:
@@ -163,6 +167,14 @@ namespace _08_StreamingContent_Console.UI
             var titleThree = new StreamingContent("Hannibal", "Life of a cannibal", 5f, MaturityRating.R, true, GenreType.Thriller);
             var titleFour = new StreamingContent("Enter the Dragon", "Bruce Lee stuff", 5f, MaturityRating.PG_13, false, GenreType.Documentary);
             var titleFive = new StreamingContent("Harry Potter", "Story of a harry potter", 4.5f, MaturityRating.PG, false, GenreType.Fantasy);
+
+            Movie movieOne = new Movie();
+            Movie movieTwo = new Movie("Venom", "Two Bros", 9001, MaturityRating.NC_17, true, GenreType.RomCom, 123);
+            Movie movieThree = new Movie("Another Movie", "Test Data", 1, MaturityRating.NC_17, true, GenreType.RomCom, 123);
+            _streamingRepo.AddContentToDirectory(movieOne);
+            _streamingRepo.AddContentToDirectory(movieTwo);
+            _streamingRepo.AddContentToDirectory(movieThree);
+
             _streamingRepo.AddContentToDirectory(titleOne);
             _streamingRepo.AddContentToDirectory(titleTwo);
             _streamingRepo.AddContentToDirectory(titleThree);
@@ -250,7 +262,20 @@ namespace _08_StreamingContent_Console.UI
             
             //Remove that item
         }
-        private List<StreamingContent> GetAllShows()
+        private void ShowAllMovies()
+        {
+            Console.Clear();
+            //Get all the movies
+            List<Movie> listOfMovies = _streamingRepo.GetAllMovies();
+            foreach(var oneMovie in listOfMovies)
+            {
+                DisplaySimple(oneMovie);
+            }
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+        }
+        //challenge below
+       /* private List<StreamingContent> GetAllShows()
         {
             List<StreamingContent> content = _streamingRepo.GetContent();
             List<StreamingContent> listOfShows = new List<StreamingContent>();
@@ -258,10 +283,10 @@ namespace _08_StreamingContent_Console.UI
             {
                 if (maybeShow is Show)
                 {
-                    listOfShows.Add(maybeShow);
+                    listOfShows.Add((Show)maybeShow);
                 }
             }
             return listOfShows;
-        }
+        }*/
     }
 }

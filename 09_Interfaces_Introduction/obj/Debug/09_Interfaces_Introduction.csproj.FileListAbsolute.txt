@@ -1,0 +1,6 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_Introduction\bin\Debug\09_Interfaces_Introduction.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_Introduction\bin\Debug\09_Interfaces_Introduction.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_Introduction\obj\Debug\09_Interfaces_Introduction.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_Introduction\obj\Debug\09_Interfaces_Introduction.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_Introduction\obj\Debug\09_Interfaces_Introduction.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_Introduction\obj\Debug\09_Interfaces_Introduction.pdb

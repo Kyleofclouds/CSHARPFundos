@@ -1,0 +1,16 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\09_Interfaces_WorkingWithDI.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\09_Interfaces_WorkingWithDI.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\09_Interfaces_Introduction.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\09_Interfaces_Introduction.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\obj\Debug\09_Interfaces_WorkingWithDI.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\obj\Debug\09_Interfaces_WorkingWithDI.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\obj\Debug\09_Interfaces_WorkingWithDI.csproj.CopyComplete
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\obj\Debug\09_Interfaces_WorkingWithDI.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\09_Interfaces_WorkingWithDI\obj\Debug\09_Interfaces_WorkingWithDI.pdb

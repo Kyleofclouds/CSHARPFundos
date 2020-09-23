@@ -31,17 +31,17 @@ namespace _07_RepositoryPattern_Repository
             }
             return null;
         }
-        public List<Show> GetAllShows()
+        public List<Movie> GetAllMovies()
         {
             //make a space to save all shows
-            List<Show> allShows = new List<Show>();
+            List<Movie> allShows = new List<Movie>();
             //Pull all shows from my list
             //save the list off to the side
             foreach(StreamingContent content in _contentDirectory)
             {
-                if(content is Show)
+                if(content is Movie)
                 {
-                    allShows.Add((Show)content);
+                    allShows.Add((Movie)content);
                 }
             }
             //return that list
@@ -62,7 +62,7 @@ namespace _07_RepositoryPattern_Repository
             }
             return friendly;
         }
-        public List<Show> GetAllShowsOverACeratainEpisodeCount(int episodeCount)
+        /*public List<Show> GetAllShowsOverACeratainEpisodeCount(int episodeCount)
         {
             List<Show> finalList = new List<Show>();
             var listOfAllShows = GetAllShows();
@@ -74,6 +74,6 @@ namespace _07_RepositoryPattern_Repository
                 }
             }
             return finalList;
-        }
+        }*/
     }
 }
