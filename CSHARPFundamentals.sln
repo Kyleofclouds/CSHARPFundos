@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Interfaces_Introduction"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Interfaces_WorkingWithDI", "09_Interfaces_WorkingWithDI\09_Interfaces_WorkingWithDI.csproj", "{72B9F769-5222-497E-81D4-F28C5AC8BA78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_StreamingContent_UIRefactor", "10_StreamingContent_UIRefactor\10_StreamingContent_UIRefactor.csproj", "{DAC0DE80-72D6-41EB-977C-45A65B73873E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_StreamingContent_UIRefactor_Tests", "10_StreamingContent_UIRefactor_Tests\10_StreamingContent_UIRefactor_Tests.csproj", "{3BE92852-6579-4486-BBDE-DC5F10CBD3F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{72B9F769-5222-497E-81D4-F28C5AC8BA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B9F769-5222-497E-81D4-F28C5AC8BA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B9F769-5222-497E-81D4-F28C5AC8BA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC0DE80-72D6-41EB-977C-45A65B73873E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC0DE80-72D6-41EB-977C-45A65B73873E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC0DE80-72D6-41EB-977C-45A65B73873E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC0DE80-72D6-41EB-977C-45A65B73873E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE92852-6579-4486-BBDE-DC5F10CBD3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE92852-6579-4486-BBDE-DC5F10CBD3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE92852-6579-4486-BBDE-DC5F10CBD3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE92852-6579-4486-BBDE-DC5F10CBD3F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

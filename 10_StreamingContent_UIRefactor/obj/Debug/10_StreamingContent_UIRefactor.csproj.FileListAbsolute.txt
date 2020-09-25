@@ -1,0 +1,6 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\10_StreamingContent_UIRefactor\bin\Debug\10_StreamingContent_UIRefactor.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\10_StreamingContent_UIRefactor\bin\Debug\10_StreamingContent_UIRefactor.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\10_StreamingContent_UIRefactor\obj\Debug\10_StreamingContent_UIRefactor.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\10_StreamingContent_UIRefactor\obj\Debug\10_StreamingContent_UIRefactor.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\10_StreamingContent_UIRefactor\obj\Debug\10_StreamingContent_UIRefactor.dll
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\CSHARPFundamentals\10_StreamingContent_UIRefactor\obj\Debug\10_StreamingContent_UIRefactor.pdb
