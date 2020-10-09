@@ -51,7 +51,7 @@ namespace _09_Interfaces_Introduction
     public class Apple : IFruit
     {
         public string Name { get { return "Apple"; }  }
-        public bool IsPeeled { get; private set; }
+        public bool IsPeeled { get; private set; } = false;
         public bool IsCored { get; private set; }
 
         public string AppleType = "Washington";

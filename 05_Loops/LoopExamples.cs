@@ -33,7 +33,7 @@ namespace _05_Loops
             while (keepLooping)
             {
                 someCount = rand.Next(0, 20);
-                if (someCount ==6 || someCount == 10)
+                if (someCount == 6 || someCount == 10)
                 {
                     continue;
                 }

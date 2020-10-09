@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace _02_Operators
 {
     [TestClass]
-    public class Aritmetic
+    public class Arithmetic
     {
         [TestMethod]
         public void SimpleOperators()

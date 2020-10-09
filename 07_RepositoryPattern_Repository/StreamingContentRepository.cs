@@ -57,6 +57,7 @@ namespace _07_RepositoryPattern_Repository
                 return false;
             }
         }
+        //Delete
         public bool DeleteExistingContent(StreamingContent existingContent)
         {
             bool deleteResult = _contentDirectory.Remove(existingContent);

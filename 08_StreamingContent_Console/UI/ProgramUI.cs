@@ -28,7 +28,7 @@ namespace _08_StreamingContent_Console.UI
             bool continueToRun = true;
             while (continueToRun)
             {
-                _console.Clear();//don't know what this is
+                _console.Clear();
                 _console.WriteLine("Enter the number of the option you'd like to select: \n" +
                     "1) Show all streaming content. \n" +
                     "2) Find by title \n" +

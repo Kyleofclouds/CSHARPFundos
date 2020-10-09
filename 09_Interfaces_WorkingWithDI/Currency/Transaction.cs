@@ -21,6 +21,6 @@ namespace _09_Interfaces_WorkingWithDI.Currency
         {
             return _currency.Value;
         }
-        public string GetTransactionType() => _currency.Name;
+        public string GetTransactionType() => _currency.Name;// => is another form of return
     }
 }

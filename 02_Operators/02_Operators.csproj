@@ -49,7 +49,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aritmetic.cs" />
+    <Compile Include="Arithmetic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Comparisons.cs" />
   </ItemGroup>
